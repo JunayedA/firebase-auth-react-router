@@ -9,6 +9,7 @@ const Register = () => {
                 <input type="email" />
                 <br />
                 <input type="password" />
+                <br />
                 <input type="submit" value="Submit" />
             </form>
             <NavLink to="/login">Already Registered?</NavLink>
